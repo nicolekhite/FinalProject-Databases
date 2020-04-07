@@ -8,17 +8,34 @@ Sean Oberer
 Marcus Pierce
 
 Project Purpose:
-Due to several concerns over health and safety, delivering food to the UNCC campus grounds is becoming more difficult by the day. 
-Because of this, campus officials tend to not like the idea of delivery systems on campus unless it is operated by the University 
-itself. To solve this matter, we will be starting a company which gives the University guaranteed full control of the delivery system. 
+We want to give students the most affordable and convenient way to have food delivered to them on campus. We know that universities
+prefer not to have people who are not affiliated with their institution come on to campus property. With our project, NinerEats, we 
+want to give students at UNC Charlotte a convenient way to have food delivered by other students. By doing this, this will prevent 
+people who are not directly affiliated with the university from coming on to the college campus and it will also provide an opportunity 
+for college students to make some money since this is a food delivery service for college students by college students.
 
 Project Objectives:
-We want to give students the most affordable and convenient way to have food delivered to them on campus. We know that universities
-prefer not to have people who aren't affiliated with their institution come to campus so with our project, we want to give students
-a convenient way to have food delivered by other students. By doing this, this will prevent people who aren't directly affiliated with
-the university from coming to college campuses and it will also provide an opportunity for college students to make some money
-since this is a food delivery service for college students by college students. 
+Objective components of each assignment will have 1 to 2 points or more. Also, all members of the group will have the chance to give
+and receive feedback before the project gets submitted to Canvas.
 
-Deliverable 2 (April 7, 2020)
-  a. Business Rules
-  b. Schema
+1)  Deliverable 2 (April 7, 2020)
+  a. Data Dictionary
+  b. Business Rules
+  c. Scope
+  d. EERD
+  
+2)  Deliverable 3 (April 14, 2020)
+  a. SQL Dump
+    i. Schema
+    ii. Data
+    iii. Functions
+    iv. Procedures
+
+3)  Deliverable 4 (May 4, 2020)
+  a. SQL Dump of Project
+  b. Powerpoint Presentation 
+  c. Stored Procedure or Function
+  d. Trigger
+  e. Views
+  f. Indexes for Query Optimization
+  g. User Interface - Extra Credit
