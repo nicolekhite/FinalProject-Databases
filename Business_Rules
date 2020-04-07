@@ -1,1 +1,9 @@
+Business Rules:
 
+1. Each Person can be either faculty, staff, or students and have different information based on account type
+2. Student type can be a Driver as well as a Person
+2. There can be many Location spots for food to be delivered
+3. Restaurants can have many different food options
+4. Orders can have multiple food items but only one Restaurant and one Location to deliver to
+5. A Person can order food one or many times
+6. 
