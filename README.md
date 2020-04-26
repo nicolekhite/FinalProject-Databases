@@ -9,9 +9,7 @@ want to give students at UNC Charlotte a convenient way to have food delivered b
 people who are not directly affiliated with the university from coming on to the college campus and it will also provide an opportunity 
 for college students to make some money since this is a food delivery service for college students by college students.
 ### - Use Case
-Any entity that would like to run a food delivery service should be able to run this mysql server and have the necessary fields to manage customers, drives, restaurants, and orders. 
-
-Can also be found at: https://github.com/nicolekhite/FinalProject-Databases/blob/master/Use_Case.png
+![Use_Case](https://github.com/nicolekhite/FinalProject-Databases/blob/master/Use_Case.png?raw=true)
 ### - Business Rules
 1. Each Person can be either faculty, staff, or students and have different information based on account type.
 2. Student type can be a Driver as well as a Person.
@@ -24,7 +22,7 @@ Can also be found at: https://github.com/nicolekhite/FinalProject-Databases/blob
 9. Delivery Person has to be approved.
 10. All orders have a flat delivery fee of $5.
 ### - EERD
-Can be found at: https://github.com/nicolekhite/FinalProject-Databases/blob/master/EERD.png
+![EERD Diagram](https://github.com/nicolekhite/FinalProject-Databases/blob/master/EERD.png?raw=true)
 ### - MySQL Queries (three)
 ### - Trigger
 ### - Stored Procedure
@@ -38,7 +36,7 @@ The screenshots of all tables is in the Table Screenshots folder.
   
 Data Dictionary can be found here
   - https://github.com/nicolekhite/FinalProject-Databases/blob/master/Data%20Dictionary.docx
-### - Presentation
+## - Presentation
 View the slides here
 
 Watch the video here
