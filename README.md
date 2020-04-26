@@ -37,3 +37,6 @@ The screenshots of all tables is in the Table Screenshots folder.
   - https://github.com/nicolekhite/FinalProject-Databases/tree/master/Table%20Screenshots
   
   Data Dictionary can be found here: https://github.com/nicolekhite/FinalProject-Databases/blob/master/Data%20Dictionary.docx
+### - Presentation
+View the slides here
+Watch the video here
