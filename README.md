@@ -27,6 +27,7 @@ for college students to make some money since this is a food delivery service fo
 ### - Trigger
 ### - Stored Procedure
 ### - Web/App Implementation (Optional) or Description of Future Work
+In the future, we will need to create a mobile app to pair with our current databases. Also, we would like to expand this to other companies and modify the app to fit the demand of current students on campus.
 ### - MySQL dump
 The MySql dump with all of the data is in the dumps folder.
   - https://github.com/nicolekhite/FinalProject-Databases/tree/master/dumps
