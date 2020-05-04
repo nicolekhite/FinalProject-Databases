@@ -40,6 +40,6 @@ The screenshots of all tables is in the Table Screenshots folder.
 Data Dictionary can be found here
   - https://github.com/nicolekhite/FinalProject-Databases/blob/master/Data%20Dictionary.docx
 ### - Presentation
-View the slides here
+View the slides [here](https://docs.google.com/presentation/d/1SIFgJs3CYxTQUWqKWLeM_iwOMSqZZDp9Sz3s8qKFcGQ/edit?usp=sharing)
 
 Watch the video here
