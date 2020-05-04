@@ -25,7 +25,9 @@ for college students to make some money since this is a food delivery service fo
 ![EERD Diagram](https://github.com/nicolekhite/FinalProject-Databases/blob/master/EERD.png?raw=true)
 ### - MySQL Queries (three)
 ### - Trigger
+Since person has to be either a faculty, a staff or a student. It seems logical to insert have a trigger that insert a faculty, staff or student in the person table before inserting them in their respective table.
 ### - Stored Procedure
+Based on the content of the database some recurring queries might be to try to find who made specific deliveries, what orders a specific client has made or what group of peoples (student, faculty, or staff) makes the most order etc. Upon this, it was decided to include some of the queries as stored procedures.
 ### - Web/App Implementation (Optional) or Description of Future Work
 In the future, we will need to create a mobile app to pair with our current databases. Also, we would like to expand this to other companies and modify the app to fit the demand of current students on campus.
 ### - MySQL dump
