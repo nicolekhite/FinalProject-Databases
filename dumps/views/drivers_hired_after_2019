@@ -1,0 +1,8 @@
+CREATE OR REPLACE VIEW drivers_hired_after_2019 AS
+SELECT ID, name, email, cell, licenseNumber, dateHired FROM mydb.person AS people
+JOIN mydb.driver AS drivers
+ON people.ID = drivers.Student_ID
+WHERE ID IN (
+	SELECT Student_ID FROM mydb.driver
+    WHERE dateHired > '2020-01-01'
+);
