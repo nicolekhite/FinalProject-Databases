@@ -1,0 +1,13 @@
+CREATE OR REPLACE VIEW ordertotalprices AS
+SELECT orders.ID,
+	orders.Orderer_ID,
+    orders.Driver_ID,
+	orders.Restaurant_ID,
+    orders.Location_ID,
+    sum(food.price) AS actualTotalPrice 
+FROM mydb.order AS orders
+INNER JOIN mydb.order_has_fooditem AS rel
+ON orders.ID = rel.Order_ID
+INNER JOIN mydb.fooditem AS food
+ON rel.FoodItem_ID = food.ID AND rel.Restaurant_ID = food.Restaurant_ID
+GROUP BY orders.ID
