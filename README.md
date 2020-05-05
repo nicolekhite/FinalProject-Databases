@@ -41,4 +41,4 @@ Views can be found under the dumps folder under views.
 ### - Presentation
 View the slides [here](https://docs.google.com/presentation/d/1SIFgJs3CYxTQUWqKWLeM_iwOMSqZZDp9Sz3s8qKFcGQ/edit?usp=sharing)
 
-Watch the video here
+Watch the video here [here](https://youtu.be/UK2Jym6cGKM)
