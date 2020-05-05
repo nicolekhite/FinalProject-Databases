@@ -1,0 +1,7 @@
+CREATE OR REPLACE VIEW orders_with_two_items AS
+SELECT * FROM mydb.order_has_fooditem
+WHERE Order_ID IN (
+	SELECT Order_ID
+    FROM mydb.order_has_fooditem
+    GROUP BY Order_ID having count(order_ID) = 2
+)
