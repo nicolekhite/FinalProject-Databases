@@ -24,6 +24,7 @@ for college students to make some money since this is a food delivery service fo
 ### - EERD
 ![EERD Diagram](https://github.com/nicolekhite/FinalProject-Databases/blob/master/EERD.png?raw=true)
 ### - MySQL Queries (three)
+Can be found under the dumps folder
 ### - Web/App Implementation (Optional) or Description of Future Work
 In the future, we will need to create a mobile app to pair with our current databases. Also, we would like to expand this to other companies and modify the app to fit the demand of current students on campus.
 ### - MySQL dump
